@@ -122,7 +122,7 @@ const filterCity = (req, res) =>{
     }
 
     return res.json({
-        body: req.query,
+        query: req.query,
         error: filter_error,
         data: sendJsonArray
     })
