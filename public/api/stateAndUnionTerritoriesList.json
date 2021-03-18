@@ -1,0 +1,254 @@
+[
+    {
+        "state_id": "1",
+        "state_name": "Andaman and Nicobar Islands",
+        "state_population": "380581",
+        "state_wikipediaLink": "/wiki/Andaman_and_Nicobar_Islands",
+        "location_type_state": "unionterritories"
+    },
+    {
+        "state_id": "2",
+        "state_name": "Andhra Pradesh",
+        "state_population": "49506799",
+        "state_wikipediaLink": "/wiki/Andhra_Pradesh",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "3",
+        "state_name": "Arunachal Pradesh",
+        "state_population": "1383727",
+        "state_wikipediaLink": "/wiki/Arunachal_Pradesh",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "4",
+        "state_name": "Assam",
+        "state_population": "31205576",
+        "state_wikipediaLink": "/wiki/Assam",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "5",
+        "state_name": "Bihar",
+        "state_population": "104099452",
+        "state_wikipediaLink": "/wiki/Bihar",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "6",
+        "state_name": "Chandigarh",
+        "state_population": "1055450",
+        "state_wikipediaLink": "/wiki/Chandigarh",
+        "location_type_state": "unionterritories"
+    },
+    {
+        "state_id": "7",
+        "state_name": "Chhattisgarh",
+        "state_population": "25545198",
+        "state_wikipediaLink": "/wiki/Chhattisgarh",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "8",
+        "state_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "state_population": "586956",
+        "state_wikipediaLink": "/wiki/Dadra_and_Nagar_Haveli_and_Daman_and_Diu",
+        "location_type_state": "unionterritories"
+    },
+    {
+        "state_id": "9",
+        "state_name": "Delhi",
+        "state_population": "16787941",
+        "state_wikipediaLink": "/wiki/Delhi",
+        "location_type_state": "unionterritories"
+    },
+    {
+        "state_id": "10",
+        "state_name": "Goa",
+        "state_population": "1458545",
+        "state_wikipediaLink": "/wiki/Goa",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "11",
+        "state_name": "Gujarat",
+        "state_population": "60439692",
+        "state_wikipediaLink": "/wiki/Gujarat",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "12",
+        "state_name": "Haryana",
+        "state_population": "25351462",
+        "state_wikipediaLink": "/wiki/Haryana",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "13",
+        "state_name": "Himachal Pradesh",
+        "state_population": "6864602",
+        "state_wikipediaLink": "/wiki/Himachal_Pradesh",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "14",
+        "state_name": "Jammu and Kashmir",
+        "state_population": "12258433",
+        "state_wikipediaLink": "/wiki/Jammu_and_Kashmir_(union_territory)",
+        "location_type_state": "unionterritories"
+    },
+    {
+        "state_id": "15",
+        "state_name": "Jharkhand",
+        "state_population": "32988134",
+        "state_wikipediaLink": "/wiki/Jharkhand",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "16",
+        "state_name": "Karnataka",
+        "state_population": "61095297",
+        "state_wikipediaLink": "/wiki/Karnataka",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "17",
+        "state_name": "Kerala",
+        "state_population": "33406061",
+        "state_wikipediaLink": "/wiki/Kerala",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "18",
+        "state_name": "Ladakh",
+        "state_population": "290492",
+        "state_wikipediaLink": "/wiki/Ladakh",
+        "location_type_state": "unionterritories"
+    },
+    {
+        "state_id": "19",
+        "state_name": "Lakshadweep",
+        "state_population": "64473",
+        "state_wikipediaLink": "/wiki/Lakshadweep",
+        "location_type_state": "unionterritories"
+    },
+    {
+        "state_id": "20",
+        "state_name": "Madhya Pradesh",
+        "state_population": "72626809",
+        "state_wikipediaLink": "/wiki/Madhya_Pradesh",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "21",
+        "state_name": "Maharashtra",
+        "state_population": "112374333",
+        "state_wikipediaLink": "/wiki/Maharashtra",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "22",
+        "state_name": "Manipur",
+        "state_population": "2855794",
+        "state_wikipediaLink": "/wiki/Manipur",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "23",
+        "state_name": "Meghalaya",
+        "state_population": "2966889",
+        "state_wikipediaLink": "/wiki/Meghalaya",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "24",
+        "state_name": "Mizoram",
+        "state_population": "1097206",
+        "state_wikipediaLink": "/wiki/Mizoram",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "25",
+        "state_name": "Nagaland",
+        "state_population": "1978502",
+        "state_wikipediaLink": "/wiki/Nagaland",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "26",
+        "state_name": "Odisha",
+        "state_population": "41974218",
+        "state_wikipediaLink": "/wiki/Odisha",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "27",
+        "state_name": "Puducherry",
+        "state_population": "1247953",
+        "state_wikipediaLink": "/wiki/Puducherry_(union_territory)",
+        "location_type_state": "unionterritories"
+    },
+    {
+        "state_id": "28",
+        "state_name": "Punjab",
+        "state_population": "27743338",
+        "state_wikipediaLink": "/wiki/Punjab,_India",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "29",
+        "state_name": "Rajasthan",
+        "state_population": "68548437",
+        "state_wikipediaLink": "/wiki/Rajasthan",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "30",
+        "state_name": "Sikkim",
+        "state_population": "610577",
+        "state_wikipediaLink": "/wiki/Sikkim",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "31",
+        "state_name": "Tamil Nadu",
+        "state_population": "72147030",
+        "state_wikipediaLink": "/wiki/Tamil_Nadu",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "32",
+        "state_name": "Telangana",
+        "state_population": "35193978",
+        "state_wikipediaLink": "/wiki/Telangana",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "33",
+        "state_name": "Tripura",
+        "state_population": "3673917",
+        "state_wikipediaLink": "/wiki/Tripura",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "34",
+        "state_name": "Uttarakhand",
+        "state_population": "10086292",
+        "state_wikipediaLink": "/wiki/Uttarakhand",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "35",
+        "state_name": "Uttar Pradesh",
+        "state_population": "199812341",
+        "state_wikipediaLink": "/wiki/Uttar_Pradesh",
+        "location_type_state": "state"
+    },
+    {
+        "state_id": "36",
+        "state_name": "West Bengal",
+        "state_population": "91276115",
+        "state_wikipediaLink": "/wiki/West_Bengal",
+        "location_type_state": "state"
+    }
+]
